@@ -87,19 +87,7 @@ Please translate the above answer into Korean.
 
 12-13 주차: 물체 탐지, 경계 상자, 앵커 상자, non-maximum suppression 개념 포함.
 
-14-15 주차: 이미
-
-
-***
-
-**Human:**
-Continue the above answer.
-
-***
-
-**Assistant:**
-
-지 분석 고급 주제, 의미를 구분하는 분할, 인스턴스 분할, 주의 기능 포함
+14-15 주차: 이미지 분석 고급 주제, 의미를 구분하는 분할, 인스턴스 분할, 주의 기능 포함
 
 16 주차 : 프로젝트 게시회와 과목의 주요 핵심 강좌 리뷰.
 
