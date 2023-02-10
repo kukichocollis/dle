@@ -1,2 +1,2 @@
-# dle
-Deep learning express
+# DLe
+Deep Learning express
