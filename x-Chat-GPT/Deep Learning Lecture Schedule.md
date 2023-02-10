@@ -33,7 +33,7 @@ Please note that the content and schedule can be different in your case as it de
 ***
 
 **Human:**
-I am goint to take an introductory course to deep learnig using image data. Could you make a table of contents for one semester of 16 weeks.
+I am goin to take an introductory course to deep learnig using image data. Could you make a table of contents for one semester of 16 weeks.
 
 ***
 
