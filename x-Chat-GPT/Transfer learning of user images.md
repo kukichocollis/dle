@@ -197,23 +197,6 @@ history = model.fit(train_dataset, epochs=10, validation_data=val_dataset)
 import matplotlib.pyplot as plt
 
 plt.plot(history.history['accuracy'], label='accuracy')
-plt.plot(history.history
-
-```
-
-
-***
-
-**Human:**
-Please continue your code.
-
-***
-
-**Assistant:**
-
-Here's the continuation of the code:
-
-```
 plt.plot(history.history['val_accuracy'], label = 'val_accuracy')
 plt.xlabel('Epoch')
 plt.ylabel('Accuracy')
