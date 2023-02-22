@@ -1,5 +1,5 @@
 # DLe
-Deep Learning express
+- ## Deep Learning express
 ---
 ## Goooood tutorial
 - [Zero to Mastery Deep Learning with TensorFlow](https://github.com/mrdbourke/tensorflow-deep-learning)
