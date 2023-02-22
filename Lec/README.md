@@ -1,1 +1,1 @@
-# Lecture pdfs
+# Lecture pdf
