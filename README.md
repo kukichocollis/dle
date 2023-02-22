@@ -7,5 +7,6 @@
 ---
 ## Transfer Learning 
 
-<img src="https://github.com/mrdbourke/pytorch-deep-learning/raw/main/images/06-transfer-learning-example-overview.png" width=800 height=600>  (src: https://github.com/mrdbourke/pytorch-deep-learning/tree/main/images)  
+<img src="https://github.com/mrdbourke/pytorch-deep-learning/raw/main/images/06-transfer-learning-example-overview.png" width=800 height=600>  
+#### (src: https://github.com/mrdbourke/pytorch-deep-learning/tree/main/images)  
 ---
