@@ -9,5 +9,6 @@
 <img src="https://github.com/mrdbourke/pytorch-deep-learning/raw/main/images/06-transfer-learning-example-overview.png" width=900 height=600>  
 
 - #### (src: https://raw.githubusercontent.com/mrdbourke/pytorch-deep-learning/main/images/06-transfer-learning-example-overview.png)  
+- #### (src: https://raw.githubusercontent.com/mrdbourke/pytorch-deep-learning/main/images/01-machine-learning-a-game-of-two-parts.png)
 
 ---
