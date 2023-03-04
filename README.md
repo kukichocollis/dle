@@ -11,7 +11,7 @@
 - #### (src: https://raw.githubusercontent.com/mrdbourke/pytorch-deep-learning/main/images/06-transfer-learning-example-overview.png)  
 - #### (src: https://raw.githubusercontent.com/mrdbourke/pytorch-deep-learning/main/images/01-machine-learning-a-game-of-two-parts.png)
 
-## Multi-modal LLM 
+## Multi-modal LLM  
 <img src="https://cdn.aitimes.com/news/photo/202303/149758_158620_2947.png" width=900 height=600>  
 - #### (src: https://cdn.aitimes.com/news/photo/202303/149758_158620_2947.png)  
 
