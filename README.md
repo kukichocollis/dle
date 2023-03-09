@@ -10,7 +10,7 @@
   - VSCode (extension: Korean Language Pack, Python)
 ---  
 
-** 꽈제제출 및 평가
+** 과제제출 및 평가
 - 수업 노트 관리 및 과제/프로젝트 제출/평가 (평가 단계: #, *, @, @@)
 - 개인별 repo : github에 repo를 만들어서 수업 결과와 과제 제출                
   * [dl01: 김석영]()
