@@ -27,10 +27,10 @@
   * [dl12: 김민혁](https://github.com/JerryK97/dl12)
   * [dl13: 이재혁]()
   * [dl14: 강동협]()
-  * [dl15: 강창호]()
+  * [dl15: 강창호](https://github.com/Kangchangho1234/dl15)
   * [dl16: 김민제](https://github.com/mixhub10/dl16)
   * [dl17: 박규현](https://github.com/Park20182618/dl17)
-  * [dl18: 윤종식]()
+  * [dl18: 윤종식](https://github.com/jongsik22/dl18)
   * [dl19: 이재현]()
   
 ---
