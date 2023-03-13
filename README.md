@@ -4,7 +4,7 @@
 ## 수업 도구
 * Google Colab & Google drive
   - GPU powered code editor
-  - Web based environment : everytime & everywhere
+  - Web based environment : anytime & everywhere
 * IDE for Python
   - Spyder 5.x : Easy IDE for Python
   - VSCode (extension: Korean Language Pack, Python)
