@@ -26,7 +26,7 @@
   * [dl11: 권다은#]()
   * [dl12: 김민혁](https://github.com/JerryK97/dl12)
   * [dl13: 이재혁#]()
-  * [dl14: 강동협#]()
+  * [dl14: 강동협](https://github.com/Hyup98/DL14)
   * [dl15: 강창호](https://github.com/Kangchangho1234/dl15)
   * [dl16: 김민제](https://github.com/mixhub10/dl16)
   * [dl17: 박규현](https://github.com/Park20182618/dl17)
