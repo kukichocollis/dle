@@ -1,7 +1,8 @@
 # Notebooks for DLe
 
 - [chap03: 머신러닝 Top10](https://yozm.wishket.com/magazine/detail/1931/)
-> [gradient Boosting => XGBoost, LightGBM, Catboost](https://m.blog.naver.com/jaehong7719/221950378451)
+- [gradient Boosting => XGBoost, LightGBM, Catboost](https://m.blog.naver.com/jaehong7719/221950378451)  
+
 > XGBoost, LightGBM, Catboost는 모두 gradient boosting 기반의 머신러닝 알고리즘입니다. 각각의 특징과 차이점은 다음과 같습니다  
 
 - XGBoost는 eXtreme Gradient Boosting의 약자로, 빠른 속도와 높은 성능을 자랑하는 알고리즘입니다. 병렬 처리, 정규화, 가지치기 등의 기능을 제공합니다. 분류와 회귀 문제에 모두 적용할 수 있습니다.  
