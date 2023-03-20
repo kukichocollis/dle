@@ -13,25 +13,25 @@
 ** 과제제출 및 평가
 - 수업 노트 관리 및 과제/프로젝트 제출/평가 (평가 단계: #, *, @, @@)
 - 개인별 repo : github에 repo를 만들어서 수업 결과와 과제 제출                
-  * [dl01: 김석영](https://github.com/cheesedog-paradise/dl01)
-  * [dl02: 정환희](https://github.com/alemskdlt/dl02)
-  * [dl03: 하이든](https://github.com/HayDen-Gonne/dl03)
-  * [dl04: 하정현#]()
-  * [dl05: 김재준](https://github.com/jaejun22/dl05)
-  * [dl06: 오승권#]()
-  * [dl07: 혼곤졸](https://github.com/20211527/dl07)
-  * [dl08: 허은준#]()
-  * [dl09: 윤상현#]()
-  * [dl10: 박준혁](https://github.com/20212609/dl10)
-  * [dl11: 권다은](https://github.com/daeunkk/dl11)
-  * [dl12: 김민혁](https://github.com/JerryK97/dl12)
-  * [dl13: 이재혁](https://github.com/jae-hyuck/dl13)
-  * [dl14: 강동협](https://github.com/Hyup98/DL14)
-  * [dl15: 강창호](https://github.com/Kangchangho1234/dl15)
-  * [dl16: 김민제](https://github.com/mixhub10/dl16)
-  * [dl17: 박규현](https://github.com/Park20182618/dl17)
-  * [dl18: 윤종식](https://github.com/jongsik22/dl18)
-  * [dl19: 이재현](https://github.com/iamgus123/dl19)
+  * [dl01: 김석영](https://github.com/cheesedog-paradise/dl01) */2
+  * [dl02: 정환희](https://github.com/alemskdlt/dl02) *
+  * [dl03: 하이든](https://github.com/HayDen-Gonne/dl03) *
+  * [dl04: 하정현#]() #
+  * [dl05: 김재준](https://github.com/jaejun22/dl05) *
+  * [dl06: 오승권#]() #
+  * [dl07: 혼곤졸](https://github.com/20211527/dl07) */2
+  * [dl08: 허은준#]() #
+  * [dl09: 윤상현#]() #
+  * [dl10: 박준혁](https://github.com/20212609/dl10) #
+  * [dl11: 권다은](https://github.com/daeunkk/dl11) *
+  * [dl12: 김민혁](https://github.com/JerryK97/dl12) *
+  * [dl13: 이재혁](https://github.com/jae-hyuck/dl13) *
+  * [dl14: 강동협](https://github.com/Hyup98/DL14) *
+  * [dl15: 강창호](https://github.com/Kangchangho1234/dl15) #
+  * [dl16: 김민제](https://github.com/mixhub10/dl16) *
+  * [dl17: 박규현](https://github.com/Park20182618/dl17) *
+  * [dl18: 윤종식](https://github.com/jongsik22/dl18) #
+  * [dl19: 이재현](https://github.com/iamgus123/dl19) *
   
 ---
 ## Goooood tutorial (https://github.com/mrdbourke?tab=repositories)  
