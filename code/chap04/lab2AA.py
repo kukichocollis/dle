@@ -6,6 +6,7 @@ from sklearn import datasets, linear_model
 # 당뇨병 데이터 세트를 적재한다. 
 diabetes = datasets.load_diabetes()
 str(diabetes)
+print(diabetes.keys())
 str(diabetes.DESCR)
 
 ##########################################
