@@ -40,6 +40,7 @@ print(scores)
 
 plt.scatter(X_test, y_test,  color='black')
 plt.plot(X_test, y_pred, color='blue', linewidth=3)
+plt.title(f"Test data: R2 = {np.round(scores,3)}")
 plt.show()
 
 #
