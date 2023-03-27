@@ -1,4 +1,4 @@
-# Python Linear Regression Model.
+# Python Linear/Logistic Regression Model.
 
 **Human:**
 선형회기와 로지스틱회기를 셜명하고 각각 파이선 코드를 작성해줘.
