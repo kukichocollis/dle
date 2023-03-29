@@ -40,7 +40,7 @@ Chapter 04 선형 회귀
 4. 선형 회귀 파이썬 구현 #2
 - Lab 선형 회귀 실습
 5. 과잉 적합 vs 과소 적합
-- Lab 당뇨병 예제
+- Lab 당뇨병 예제 - pandas 분석 추가
 - Mini Project 면적에 따른 집값 예측
 
 Chapter 05 퍼셉트론
