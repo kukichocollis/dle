@@ -20,7 +20,7 @@
   * [dl05: 김재준](https://github.com/jaejun22/dl05) * *
   * [dl06: 오승권#]() # #
   * [dl07: 혼곤졸](https://github.com/20211527/dl07) */2 *
-  * [dl08: 허은준#]() # #
+  * [dl08: 허은준#?](https://github.com/kukichocollis) # #
   * [dl09: 윤상현#]() # #
   * [dl10: 박준혁](https://github.com/20212609/dl10) # #
   * [dl11: 권다은](https://github.com/daeunkk/dl11) * *
